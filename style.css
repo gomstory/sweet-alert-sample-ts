@@ -1,0 +1,10 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+h1, h2 {
+  font-family: sans-serif;
+}
+img{
+  margin-top:20px;
+  display: block;
+  width:100%;
+}
